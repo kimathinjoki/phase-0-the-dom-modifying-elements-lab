@@ -11,6 +11,7 @@ document.body.append(newHeader);
 
 newHeader.id = "victory";
 
+// newHeader.setAttribute =("id","victory");
 
 
 newHeader.textContent="KIMATHI is the champion";
